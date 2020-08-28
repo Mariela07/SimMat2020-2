@@ -1,5 +1,5 @@
-# SimMat2019-2
-En este repositorio se encuentran las notas para el curso de simulación matemática en el primer semestre del 2019. En caso de requerirse material adicional, será proporcionado en las clases.
+# SimMat2020-2
+En este repositorio se encuentran las notas para el curso de simulación matemática en el primer semestre del 2020. En caso de requerirse material adicional, será proporcionado en las clases.
 
 Este curso consiste de tres módulos. 
 
@@ -30,4 +30,4 @@ Este curso consiste de tres módulos.
    3. ¿Cómo crece una población?
    4. Modelo del rendimiento de una cuenta de ahorro
 
-Prueba de la clase del día 26/08/2020
+Prueba de la clase del día 28/08/2020
